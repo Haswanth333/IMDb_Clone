@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/IMDb_Clone/static/css/main.d499cd4d.chunk.css",
+    "main.js": "/IMDb_Clone/static/js/main.187ebbb9.chunk.js",
+    "main.js.map": "/IMDb_Clone/static/js/main.187ebbb9.chunk.js.map",
+    "runtime-main.js": "/IMDb_Clone/static/js/runtime-main.5d30a3bb.js",
+    "runtime-main.js.map": "/IMDb_Clone/static/js/runtime-main.5d30a3bb.js.map",
+    "static/js/2.15a4828f.chunk.js": "/IMDb_Clone/static/js/2.15a4828f.chunk.js",
+    "static/js/2.15a4828f.chunk.js.map": "/IMDb_Clone/static/js/2.15a4828f.chunk.js.map",
+    "index.html": "/IMDb_Clone/index.html",
+    "static/css/main.d499cd4d.chunk.css.map": "/IMDb_Clone/static/css/main.d499cd4d.chunk.css.map",
+    "static/js/2.15a4828f.chunk.js.LICENSE.txt": "/IMDb_Clone/static/js/2.15a4828f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d30a3bb.js",
+    "static/js/2.15a4828f.chunk.js",
+    "static/css/main.d499cd4d.chunk.css",
+    "static/js/main.187ebbb9.chunk.js"
+  ]
+}
